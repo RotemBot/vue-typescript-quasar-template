@@ -1,4 +1,4 @@
-# families-interface
+# vue-typescript-quasar-template
 
 ## Project setup
 ```
